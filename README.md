@@ -192,7 +192,7 @@ Implement Again
 
 This repository focuses on **practical understanding rather than memorization**.
 
-Each topic is approached with the mindset of:
+Each topic is approached with the mindset of :
 
 - ❓ Why does this exist?
 - 🧩 What problem does it solve?
